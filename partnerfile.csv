@@ -1,0 +1,33 @@
+PARTNER_ID,DATE,PARTNER_COMPANY_NAME,MCPA,Adjustment,Simulated CPA,Budget
+223,2025-09-23 16:00:00,Kaiser (Health Exclusive Leads - Internal) | U65 | Autopilot,77,1,77,100000
+2241,2025-09-23 16:00:00,First Family Insurance VBB (Health Exclusive Leads) | U65-ALT-ACA | Autopilot,525,1,525,100000
+2247,2025-09-23 16:00:00,Allied Health (Health Exclusive) VBB | U65-ALT-ACA | Autopilot,392,1,392,100000
+2252,2025-09-23 16:00:00,ML Benefits (Health Insurance Leads) | U65 | Autopilot,385,1.1,423.5,100000
+2256,2025-09-23 16:00:00,Assured Health Group (Health Insurance Leads),135,1,135,100000
+2257,2025-09-23 16:00:00,Green Vine Insurance ACA VBB,150,1,150,100000
+2261,2025-09-23 16:00:00,First Family Insurance VBB (Health Exclusive Leads ) Buford,325,1,325,100000
+2263,2025-09-23 16:00:00,Mid-Mountain Agency (Health Exclusive Leads - Internal) VBB | U65 | Autopilot,170,1,170,10000
+2267,2025-09-23 16:00:00,USHA Montague (Health Insurance Leads) | U65-ALT-ACA | Autopilot,530,1,530,100000
+2293,2025-09-23 16:00:00,IHealthQuote (Health Exclusive Leads - Internal) VBB,450,1,450,10000
+2325,2025-09-23 16:00:00,Health Market Solutions (Health Exclusive Leads - Internal) VBB | U65-ACA | Autopilot,138,1,138,10000
+2327,2025-09-23 16:00:00,Self Good (Health Exclusive Leads - Internal (Alt-ACA)) VBB,300,1,300,100000
+2339,2025-09-22 20:00:00,RocketHealth (Health Exclusive Leads - Internal (Alt-ACA)) VBB,100,1,100,10000
+2349,2025-09-23 16:00:00,USHA George | Health Leads | U65-ALT-ACA | Autopilot,380,1,380,10000
+2371,2025-09-23 16:00:00,USHA Priovolos (Health Exclusive Leads - Internal (Non-ACA)) VBB,500,1,500,10000
+2415,2025-09-23 16:00:00,Leosource Agency (Health Exclusive Leads - Internal) VBB | U65-ALT-ACA | Autopilot,235,1,235,100000
+2421,2025-09-23 16:00:00,Kaiser (California) (Health Exclusive Leads - Internal) | U65 | Autopilot,78,1,78,100000
+2427,2025-09-23 16:00:00,Leading Health Choices | Health Exclusive Leads - Internal | VBB | U65-ALT-ACA | Autopilot,360,1,360,10000
+2429,2025-09-23 16:00:00,TNT Health Solutions | Health Exclusive Leads - Internal | VBB | U65-ALT-ACA | Autopilot,360,1,360,100000
+2435,2025-09-23 16:00:00,First Family Insurance - Laughlin | VBB (Health Exclusive Leads Alt-ACA),390,1,390,10000
+2441,2025-09-23 16:00:00,MedaHealth | Health Exclusive Leads - Internal | VBB | U65-ALT-ACA | Autopilot,240,1,240,100000
+2443,2025-09-23 16:00:00,Securepath Insurance Group | Health Exclusive Leads - Internal | VBB | U65-ALT-ACA | Autopilot,360,1,360,10000
+2463,2025-09-23 16:00:00,EverHealth | Health Exclusive Leads - Internal (Alt-ACA) | VBB,300,1,300,10000
+2469,2025-09-23 16:00:00,Warm-Transfer Buyer | Health Exclusive Leads | VBB | U65 | Autopilot,81,1,81,100000
+2473,2025-09-23 16:00:00,USHA Coverage Cure (Health Insurance) | U65-ALT-ACA | Autopilot,380,1,380,100000
+2491,2025-09-23 16:00:00,Next Level Benefit (Health Insurance Leads) | U65-ACA | Autopilot,170,0.95,161.5,10000
+2505,2025-09-23 16:00:00,Accuquote | Health Leads | U65-ACA | Autopilot,147,1,147,10000
+2509,2025-09-23 16:00:00,ML Benefits (Health Insurance Leads (Tier 2)) | U65-ACA | Autopilot,110,1.05,115.5,100000
+2513,2025-09-23 16:00:00,Assured | Health Leads | U65-ALT-ACA | Autopilot,340,1,340,10000
+2527,2025-09-23 16:00:00,USHA SETH DORNE | U65-ALT-ACA | AUTOPILOT,350,1,350,100000
+2529,2025-09-23 16:00:00,ASSURITY HEALTH AGENCY | U65-ALT-ACA | AUTOPILOT,450,1,450,100000
+2551,2025-09-23 16:00:00,MVP HEALTH CHOICES | U65 HEALTH | Autopilot,360,1,360,10000
