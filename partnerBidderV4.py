@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+#(base) aloksharma@HC-LK3GH70PQ7 v3 % python analysisArgs.py \
+   # --raw_data "/Users/aloksharma/Downloads/30dys.csv" \
+  #  --partner_info "/Users/aloksharma/Documents/mktplcPrj/v3/partnerfile.csv" \
+ #   --output_analysis "simulation_results.csv" \
+#   --output_budgets "final_budgets.csv" \
+#    --timestamp_col "RECORD_DATE_TIME_UTC"
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 15 13:54:34 2025
